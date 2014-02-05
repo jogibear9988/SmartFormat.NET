@@ -105,6 +105,12 @@
     <Compile Include="..\SmartFormat\Core\Parsing\Selector.cs">
       <Link>Core\Parsing\Selector.cs</Link>
     </Compile>
+    <Compile Include="..\SmartFormat\Core\Settings\CaseSensitivityType.cs">
+      <Link>Core\Settings\CaseSensitivityType.cs</Link>
+    </Compile>
+    <Compile Include="..\SmartFormat\Core\Settings\SmartSettings.cs">
+      <Link>Core\Settings\SmartSettings.cs</Link>
+    </Compile>
     <Compile Include="..\SmartFormat\Extensions\ConditionalFormatter.cs">
       <Link>Extensions\ConditionalFormatter.cs</Link>
     </Compile>
